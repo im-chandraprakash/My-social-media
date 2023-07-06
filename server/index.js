@@ -13,7 +13,7 @@ const fileUpload = require("express-fileupload");
 const app = express();
 dotenv.config("./.env");
 
-app.use(express.json({ limit: "100mb" }));
+app.use(express.json({ limit: "1000mb" }));
 app.use(morgan("common"));
 app.use(cookieParser());
 app.use(
