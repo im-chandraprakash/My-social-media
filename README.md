@@ -21,6 +21,8 @@ https://res.cloudinary.com/dkp7kraja/video/upload/v1688641695/Video/social-media
 
 # Features
    - Login & SignUp
+![IMG_20220307_223419_972](https://github.com/07-Chandra/my-social-media/assets/126280482/757527f6-7420-44e1-a207-e69edc554193)
+
    - Profile
    - Update Profile
    - Like and Unlike
